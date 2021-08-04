@@ -1,0 +1,129 @@
+#top-page{
+    background:#F3EEE8 ;
+  width:100%;
+  position: fixed;
+  }
+nav a{
+   color:#757775;
+  text-decoration: none;
+  padding: 2px;
+   
+}
+nav a:hover{
+  color:black;
+  }
+.top-ul li{
+  display:inline-block;
+  padding:15px;
+  font-size:120%;
+  font-family:Gill Sans, sans-serif;
+   margin-left:10px;
+}
+  .pannav{
+  margin-left:100px;    
+ 
+}
+  h1{
+  width:100%;
+  margin-left:27%;
+  font-size:430%;
+  padding-top:100px;
+  padding-bottom:5px;
+  color:#CD1B04;
+  margin-top:-17px;
+}
+#welcome-section{
+   background: url(https://polimobil.md/images/background_image/1/banner3.jpg) no-repeat ;
+  height: 70vh;
+  background-position: 50%;
+  
+}
+h2{
+  margin-left:27%;
+  margin-top:-40px;
+  color:#BB1904;
+  font-size:160%;
+ }
+#soft-furniture{
+  border:2px solid  #0F0F0E;
+background:url(https://polimobil.md/images/thumbnails/447/335/detailed/2/0065_%D1%81%D0%B0%D0%B9%D1%82.jpg)no-repeat;
+  display:inline-block;
+ width: 445px;
+  height:260px;
+  border-radius: 8px;
+}
+#bedrooms{
+  border:2px solid  #0F0F0E;
+background:url(https://polimobil.md/images/thumbnails/447/335/detailed/2/20200415_135935.jpg)no-repeat;
+  display:inline-block;
+  width: 445px;
+  height:260px;
+  border-radius: 8px;
+}
+#office{
+  border:2px solid  #0F0F0E;
+background:url(https://polimobil.md/images/thumbnails/447/335/detailed/2/31510309b9f7644bafd9dacf6785d56c65562293.jpg)no-repeat;
+  display:inline-block;
+  width: 445px;
+  height:260px;
+  border-radius: 8px;
+}
+#baby{
+  border:2px solid  #0F0F0E;
+background:url(https://polimobil.md/images/thumbnails/447/335/detailed/1/b91750fc04e6c5d399f94ef722954f6958130853-1.jpg)no-repeat;
+  display:inline-block;
+  width: 445px;
+  height:260px;
+  border-radius: 8px;
+}
+#tables{
+  
+border:2px solid  #0F0F0E;
+background:url(https://polimobil.md/images/thumbnails/447/335/detailed/2/20200615_155826.jpg)no-repeat;
+  display:inline-block;
+  width: 445px;
+  height:260px;
+  border-radius: 8px;
+}
+#chairs{
+ border:2px solid  #0F0F0E;
+background:url(https://polimobil.md/images/thumbnails/447/335/detailed/1/4b4c65c9820a2b4b01e0bb6bcf92cee360616377-1.jpg)no-repeat;
+  display:inline-block;
+  width: 445px;
+  height:260px;
+  border-radius: 8px; 
+}
+#promotions{
+  border:2px solid  #0F0F0E;
+background:url(https://polimobil.md/images/thumbnails/447/335/detailed/2/NEW_YORK_COLT.jpg)no-repeat;
+  display:inline-block;
+  width: 445px;
+  height:260px;
+  border-radius: 8px;
+}
+#projects{
+  border:2px solid  #0F0F0E;
+background:url(https://polimobil.md/images/thumbnails/447/335/detailed/1/68a05c0bb3334d4e9b118565783ec80587489181-1.jpg)no-repeat;
+  display:inline-block;
+  width: 445px;
+  height:260px;
+  border-radius: 8px;
+}
+#contact{
+  border:2px solid  #0F0F0E;
+  border-radius: 8px;
+  height:210px;
+  text-align:center;
+  font-size:120%;
+  background-color:#BCC6CF;
+  }
+.name a{
+  font-size:150%;
+  text-decoration: none;
+  color:white;
+  background-color:#BB0009;
+}
+@media (max-height: 850px){
+  {font-size:14px;}
+}
+
